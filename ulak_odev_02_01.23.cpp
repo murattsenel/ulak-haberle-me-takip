@@ -26,6 +26,7 @@ char *kidemliad[] = {"LW_1","LW_2","LW_3","LW_4","LW_5","LW_6","LW_7","LW_8","LW
 
 for (kidemli = LW_1; kidemli <= LW_10; kidemli++)
    printf("%s\n", kidemliad[kidemli]);
-
+hhh
+	
 }
 
